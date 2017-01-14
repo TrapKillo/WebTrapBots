@@ -1,2 +1,0 @@
-# WebTrapBots
-TrapBots Website
